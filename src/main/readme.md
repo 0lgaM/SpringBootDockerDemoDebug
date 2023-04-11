@@ -1,5 +1,5 @@
 <!-- TOC -->
-  * [test1: testing test](#test1--testing-test)
+  * [test1: testing test](#test1-testing-test)
   * [test2-testing](#test2-testing)
     * [test3 testing](#test3-testing)
     * [test4](#test4)
