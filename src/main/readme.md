@@ -1,11 +1,11 @@
 <!-- TOC -->
-  * [test1](#test1)
-  * [test2](#test2)
-    * [test3](#test3)
+  * [test1: testing test](#test1-testing-test)
+  * [test2-testing](#test2-testing)
+    * [test3 testing](#test3-testing)
     * [test4](#test4)
 <!-- TOC -->
 
-## test1
+## test1: testing test
 
 test test
 test test
@@ -17,7 +17,7 @@ test test
 |   |   |   |   |
 
 
-## test2
+## test2-testing
 
 test
 test
@@ -56,7 +56,7 @@ test
 test
 test
 
-### test3
+### test3 testing
 
 test
 test
